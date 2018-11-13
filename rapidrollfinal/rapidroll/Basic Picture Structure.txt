@@ -1,0 +1,8 @@
+struct pic {
+	int x,y;
+	int pxl[ AA ][ BB ];
+};
+
+/*
+AA and BB is should be the highest dimensions of your picture
+*/
