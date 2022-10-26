@@ -1,4 +1,5 @@
 # Rapid-Roll
+This is an academic project. We used Igraphics header file for this project.
 Description:
   1. There will be a downgoing ball and some random upgoing bars.
   2.  Gamer needs to keep the ball into the screen-hight. Ball position can be moved by pressing side arrow-keys. If the ball is on any bar, both the ball and the bar go upward together.
